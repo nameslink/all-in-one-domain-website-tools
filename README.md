@@ -103,3 +103,227 @@ AI スキル — ドメインツール（査定、検索、ネーミング、ロ
 ```bash
 git clone https://github.com/nameslink/all-in-one-domain-website-tools.git
 ```
+
+---
+
+# All-in-One Domain & Website Tools (한국어)
+
+AI 스킬 — 도메인 도구(감정, 검색, 네이밍, 로고 생성).
+
+## 도구 목록
+
+| 도구 | 기능 |
+|------|------|
+| **도메인 감정** | 22개 차원 AI 평가(0-100점 + 가격 추정) |
+| **도메인 검색** | 20개 이상 TLD에서 등록 가능 여부 확인 |
+| **도메인 발견** | 키워드를 포함한 도메인 검색 |
+| **AI 브랜드 네이밍** | 브랜드명 생성 및 사용 가능한 도메인 추천 |
+| **로고 생성** | 브랜드/도메인용 SVG 로고 제작 |
+
+## 사용 예시
+
+```
+> example.com 감정해줘
+> cloudai.com 등록 가능해?
+> "tech" 포함된 도메인 찾아줘
+> AI 교육 스타트업 브랜드명 추천해줘
+> myapp.com 로고 만들어줘
+```
+
+## 설치
+
+```bash
+git clone https://github.com/nameslink/all-in-one-domain-website-tools.git
+```
+
+---
+
+# All-in-One Domain & Website Tools (Français)
+
+Skill IA — outils de domaine (estimation, recherche, naming, génération de logo).
+
+## Outils
+
+| Outil | Fonction |
+|-------|----------|
+| **Estimation de domaine** | Évaluation IA sur 22 dimensions (score 0-100 + estimation de prix) |
+| **Recherche de domaine** | Vérifier la disponibilité sur 20+ TLD |
+| **Découverte de domaine** | Trouver des domaines contenant un mot-clé |
+| **Naming IA** | Générer des noms de marque avec suggestions de domaines |
+| **Génération de logo** | Créer des logos SVG pour votre marque/domaine |
+
+## Exemples d'utilisation
+
+```
+> Estimer example.com
+> Est-ce que cloudai.com est disponible ?
+> Trouver des domaines contenant "tech"
+> Aide-moi à nommer ma startup d'éducation IA
+> Générer un logo pour myapp.com
+```
+
+## Installation
+
+```bash
+git clone https://github.com/nameslink/all-in-one-domain-website-tools.git
+```
+
+---
+
+# All-in-One Domain & Website Tools (Español)
+
+Skill de IA — herramientas de dominio (tasación, búsqueda, naming, generación de logo).
+
+## Herramientas
+
+| Herramienta | Función |
+|-------------|---------|
+| **Tasación de dominio** | Evaluación IA en 22 dimensiones (puntuación 0-100 + estimación de precio) |
+| **Búsqueda de dominio** | Verificar disponibilidad en 20+ TLD |
+| **Descubrimiento de dominio** | Encontrar dominios que contengan una palabra clave |
+| **Naming IA** | Generar nombres de marca con sugerencias de dominios |
+| **Generación de logo** | Crear logos SVG para tu marca/dominio |
+
+## Ejemplos de uso
+
+```
+> Tasar example.com
+> ¿Está disponible cloudai.com?
+> Buscar dominios que contengan "tech"
+> Ayúdame a nombrar mi startup de educación IA
+> Generar un logo para myapp.com
+```
+
+## Instalación
+
+```bash
+git clone https://github.com/nameslink/all-in-one-domain-website-tools.git
+```
+
+---
+
+# All-in-One Domain & Website Tools (Português)
+
+Skill de IA — ferramentas de domínio (avaliação, busca, naming, geração de logo).
+
+## Ferramentas
+
+| Ferramenta | Função |
+|------------|--------|
+| **Avaliação de domínio** | Avaliação IA em 22 dimensões (pontuação 0-100 + estimativa de preço) |
+| **Busca de domínio** | Verificar disponibilidade em 20+ TLDs |
+| **Descoberta de domínio** | Encontrar domínios contendo uma palavra-chave |
+| **Naming IA** | Gerar nomes de marca com sugestões de domínios |
+| **Geração de logo** | Criar logos SVG para sua marca/domínio |
+
+## Exemplos de uso
+
+```
+> Avaliar example.com
+> O cloudai.com está disponível?
+> Encontrar domínios contendo "tech"
+> Me ajude a nomear minha startup de educação IA
+> Gerar um logo para myapp.com
+```
+
+## Instalação
+
+```bash
+git clone https://github.com/nameslink/all-in-one-domain-website-tools.git
+```
+
+---
+
+# All-in-One Domain & Website Tools (Русский)
+
+AI-навык — инструменты для доменов (оценка, поиск, нейминг, генерация логотипа).
+
+## Инструменты
+
+| Инструмент | Функция |
+|------------|---------|
+| **Оценка домена** | AI-оценка по 22 параметрам (0-100 баллов + оценка стоимости) |
+| **Поиск домена** | Проверка доступности в 20+ зонах |
+| **Обнаружение доменов** | Поиск доменов, содержащих ключевое слово |
+| **AI-нейминг** | Генерация названий брендов с рекомендациями доменов |
+| **Генерация логотипа** | Создание SVG-логотипов для бренда/домена |
+
+## Примеры использования
+
+```
+> Оценить example.com
+> Доступен ли cloudai.com?
+> Найти домены со словом "tech"
+> Помоги придумать название для AI-стартапа в образовании
+> Сделать логотип для myapp.com
+```
+
+## Установка
+
+```bash
+git clone https://github.com/nameslink/all-in-one-domain-website-tools.git
+```
+
+---
+
+# All-in-One Domain & Website Tools (العربية)
+
+مهارة ذكاء اصطناعي — أدوات النطاقات (التقييم، البحث، التسمية، تصميم الشعار).
+
+## الأدوات
+
+| الأداة | الوظيفة |
+|--------|---------|
+| **تقييم النطاق** | تقييم بالذكاء الاصطناعي عبر 22 بُعدًا (درجة 0-100 + تقدير السعر) |
+| **بحث النطاق** | التحقق من التوفر في أكثر من 20 امتدادًا |
+| **اكتشاف النطاقات** | البحث عن نطاقات تحتوي على كلمة مفتاحية |
+| **تسمية العلامة التجارية** | توليد أسماء تجارية مع اقتراحات نطاقات متاحة |
+| **تصميم الشعار** | إنشاء شعارات SVG لعلامتك التجارية/نطاقك |
+
+## أمثلة الاستخدام
+
+```
+> قيّم example.com
+> هل cloudai.com متاح؟
+> ابحث عن نطاقات تحتوي "tech"
+> ساعدني في تسمية شركتي الناشئة في التعليم بالذكاء الاصطناعي
+> صمم شعارًا لـ myapp.com
+```
+
+## التثبيت
+
+```bash
+git clone https://github.com/nameslink/all-in-one-domain-website-tools.git
+```
+
+---
+
+# All-in-One Domain & Website Tools (Deutsch)
+
+AI-Skill — Domain-Tools (Bewertung, Suche, Naming, Logo-Generierung).
+
+## Werkzeuge
+
+| Werkzeug | Funktion |
+|----------|----------|
+| **Domain-Bewertung** | KI-Bewertung über 22 Dimensionen (0-100 Punkte + Preisschätzung) |
+| **Domain-Suche** | Verfügbarkeit bei 20+ TLDs prüfen |
+| **Domain-Entdeckung** | Domains mit einem Schlüsselwort finden |
+| **KI-Naming** | Markennamen generieren mit Domain-Vorschlägen |
+| **Logo-Generierung** | SVG-Logos für Ihre Marke/Domain erstellen |
+
+## Verwendungsbeispiele
+
+```
+> example.com bewerten
+> Ist cloudai.com verfügbar?
+> Domains mit "tech" finden
+> Hilf mir, mein KI-Bildungs-Startup zu benennen
+> Logo für myapp.com generieren
+```
+
+## Installation
+
+```bash
+git clone https://github.com/nameslink/all-in-one-domain-website-tools.git
+```
